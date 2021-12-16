@@ -1,0 +1,40 @@
+[24-05-2021 14:12][NULL] Stan w SS () mniejszy zmieniłem w 
+ </Br>[24-05-2021 14:13][NULL] Stan w SS () mniejszy zmieniłem w 
+ </Br>[24-05-2021 14:17][NULL] Stan w SS () mniejszy zmieniłem w 
+ </Br>[24-05-2021 14:17][NULL] Stan w SS () mniejszy zmieniłem w 
+ </Br>[24-05-2021 12:30][NULL] Stan w SS () mniejszy zmieniłem w 
+ </Br>[24-05-2021 13:00][NULL] Stan w SS () mniejszy zmieniłem w 
+ </Br>[24-05-2021 13:30][NULL] Stan w SS () mniejszy zmieniłem w 
+ </Br>[24-05-2021 15:45][NULL] Stan w SS () mniejszy zmieniłem w 
+ </Br>[25-05-2021 07:00][NULL] Stan w SS (61649) mniejszy zmieniłem w 
+ </Br>[25-05-2021 07:30][NULL] Stan w SS (45884) mniejszy zmieniłem w 45879
+ </Br>[25-05-2021 10:00][NULL] Stan w SS (45898) mniejszy zmieniłem w 45883
+ </Br>[25-05-2021 11:30][OK] Zmieniłem stan magazynowy w bazie PRODUKT 61646 z nowym stanem (50 => 500)
+ </Br>[25-05-2021 17:00][NULL] Stan w SS (45884) mniejszy zmieniłem w 45879
+ </Br>[25-05-2021 17:30][OK] Zmieniłem stan magazynowy w bazie PRODUKT 61646 z nowym stanem (500 => 9994)
+ </Br>[25-05-2021 17:30][NULL] Stan w SS (61649) mniejszy zmieniłem w 61646
+ </Br>[25-05-2021 20:00][NULL] Stan w SS (61649) mniejszy zmieniłem w 61646
+ </Br>[26-05-2021 07:01][NULL] Stan w SS (61649) mniejszy zmieniłem w 61646
+ </Br>[26-05-2021 16:30][NULL] Stan w SS (45886) mniejszy zmieniłem w 45879
+ </Br>[27-05-2021 09:00][NULL] Stan w SS (45898) mniejszy zmieniłem w 45883
+ </Br>[27-05-2021 13:00][NULL] Stan w SS (45886) mniejszy zmieniłem w 45879
+ </Br>[27-05-2021 20:30][NULL] Stan w SS (45898) mniejszy zmieniłem w 45883
+ </Br>[28-05-2021 18:30][NULL] Stan w SS (61739) mniejszy zmieniłem w 45883,45879
+ </Br>[29-05-2021 12:00][NULL] Stan w SS (45898) mniejszy zmieniłem w 45883
+ </Br>[30-05-2021 10:30][NULL] Stan w SS (45898) mniejszy zmieniłem w 45883
+ </Br>[30-05-2021 12:30][NULL] Stan w SS (45898) mniejszy zmieniłem w 45883
+ </Br>[30-05-2021 14:30][NULL] Stan w SS (45898) mniejszy zmieniłem w 45883
+ </Br>[31-05-2021 07:00][NULL] Stan w SS (61739) mniejszy zmieniłem w 45883,45879
+ </Br>[31-05-2021 09:30][NULL] Stan w SS (45886) mniejszy zmieniłem w 45879
+ </Br>[01-06-2021 11:30][NULL] Stan w SS (61739) mniejszy zmieniłem w 45883,45879
+ </Br>[01-06-2021 18:00][NULL] Stan w SS (45898) mniejszy zmieniłem w 45883
+ </Br>[05-06-2021 10:00][NULL] Stan w SS (45898) mniejszy zmieniłem w 45883
+ </Br>[06-06-2021 20:30][NULL] Stan w SS (45884) mniejszy zmieniłem w 45879
+ </Br>[06-06-2021 21:00][NULL] Stan w SS (45898) mniejszy zmieniłem w 45883
+ </Br>[06-06-2021 22:00][NULL] Stan w SS (45884) mniejszy zmieniłem w 45879
+ </Br>[07-06-2021 13:30][NULL] Stan w SS (45898) mniejszy zmieniłem w 45883
+ </Br>[07-06-2021 17:00][NULL] Stan w SS (45898) mniejszy zmieniłem w 45883
+ </Br>[07-06-2021 20:00][NULL] Stan w SS (61739) mniejszy zmieniłem w 45883,45879
+ </Br>[07-06-2021 20:00][NULL] Stan w SS (61928) mniejszy zmieniłem w 61646
+ </Br>[07-06-2021 20:30][OK] Zmieniłem stan magazynowy w bazie PRODUKT 61646 z nowym stanem (9976 => 9990)
+ </Br>
